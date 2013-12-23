@@ -24,6 +24,7 @@ Mobile webapp image copper Plug-in, can crop, zoom in/out and rotate images from
 ## Documentation Archive
 - How to use.
 - Demo
+- Live case [luxgen case][case1]
 
 ## Support :
 
@@ -39,3 +40,4 @@ The code is available at github [project][home] under [MIT licence][4].
  [home]: https://github.com/vitrum/webapp-cropper
  [4]: http://revolunet.mit-license.org
  [issue]: https://github.com/vitrum/webapp-cropper/issues
+ [case1]: http://mobile.dfyl-luxgen.com/
