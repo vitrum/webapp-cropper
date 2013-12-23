@@ -24,7 +24,8 @@ Mobile webapp image copper Plug-in, can crop, zoom in/out and rotate images from
 ## Documentation Archive
 - How to use.
 - Demo
-- Live case [luxgen case][case1]
+- Live case 
+  - [luxgen case][case1]
 
 ## Support :
 
