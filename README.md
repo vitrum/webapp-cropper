@@ -17,6 +17,7 @@ Mobile webapp image copper Plug-in, can crop, zoom in/out and rotate images from
 - iOS7 Safari
 - AOSP 2.3 Chrome
 - Android 4+ Chrome
+- WP(I have no idea about this.)
 
 
 
