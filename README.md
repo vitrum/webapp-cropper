@@ -37,3 +37,4 @@ The code is available at github [project][home] under [MIT licence][4].
 
  [home]: https://github.com/vitrum/webapp-cropper
  [4]: http://revolunet.mit-license.org
+ [issue]: https://github.com/vitrum/webapp-cropper/issues
