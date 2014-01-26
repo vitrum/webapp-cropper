@@ -32,6 +32,11 @@ Mobile webapp image copper Plug-in, can crop, zoom in/out and rotate images from
 - Any bugs about Markdown Preview please feel free to report [here][issue].
 - And you are welcome to fork and submit pullrequests.
 
+## Reference :
+
+*  [ios imagefile megapixel][megapixel]
+*  [JavaScript libarary for reading EXIF image metadata][exifjs]
+
 
 ## License :
 
@@ -42,3 +47,5 @@ The code is available at github [project][home] under [MIT licence][4].
  [4]: http://revolunet.mit-license.org
  [issue]: https://github.com/vitrum/webapp-cropper/issues
  [case1]: http://mobile.dfyl-luxgen.com/
+ [exifjs]: https://github.com/jseidelin/exif-js
+ [megapixel]: https://github.com/stomita/ios-imagefile-megapixel
