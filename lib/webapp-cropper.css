@@ -14,7 +14,7 @@
 .wa--pper {
   width:100%;
   height: 100%;
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   opacity: 1;
@@ -41,4 +41,13 @@
   position: absolute;
   -webkit-appearance:none;
   z-index: 1;
+}
+.point {
+  position: absolute;
+  width:100%;
+  height: 100%;
+  position: absolute;
+  top: 3em;
+  left: 0;
+  opacity: 1;
 }
