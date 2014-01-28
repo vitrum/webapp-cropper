@@ -1,0 +1,44 @@
+
+/**
+ * webapp cropper
+ *
+ * Mobile webapp image copper Plug-in, can crop, zoom in/out and rotate images from album or camera.
+ *
+ * Copyright (c) 2014 Vitrum Zhu <vitrum.cn@gmail.com>
+ * Released under the MIT license
+ */
+#wacropper { 
+  z-index: 1;
+  line-height: 1.6em;
+}
+.wa--pper {
+  width:100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 1;
+  background: #3d3d3d;
+  display: none;
+  z-index: 10;
+}
+.wa--pper .btn { 
+  width: 40%;
+  height: 2.6em;
+  position: absolute;
+  display: inline-block; 
+  z-index: 60;
+  opacity: 1;
+/*  background-color: #428bca;
+  border-radius: 4px;*/
+  margin: 0.4em 2em;
+}
+.wa--pper .cancle {
+  left:50%;
+}
+.wa--input {
+  opacity: 0;
+  position: absolute;
+  -webkit-appearance:none;
+  z-index: 1;
+}
