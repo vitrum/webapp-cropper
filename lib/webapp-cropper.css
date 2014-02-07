@@ -46,9 +46,24 @@
   position: absolute;
   width:100%;
   height: 100%;
-  position: absolute;
   top: 3em;
   left: 0;
   opacity: 0.5;
   z-index: 100;
+background-image: -webkit-gradient(linear, 0 0, 100% 100%, color-stop(.25, #555), color-stop(.25, transparent), to(transparent)),
+                  -webkit-gradient(linear, 0 100%, 100% 0, color-stop(.25, #555), color-stop(.25, transparent), to(transparent)),
+                  -webkit-gradient(linear, 0 0, 100% 100%, color-stop(.75, transparent), color-stop(.75, #555)),
+                  -webkit-gradient(linear, 0 100%, 100% 0, color-stop(.75, transparent), color-stop(.75, #555));
+background-image: -moz-linear-gradient(45deg, #555 25%, transparent 25%, transparent),
+                  -moz-linear-gradient(-45deg, #555 25%, transparent 25%, transparent),
+                  -moz-linear-gradient(45deg, transparent 75%, #555 75%),
+                  -moz-linear-gradient(-45deg, transparent 75%, #555 75%);
+background-image: -o-linear-gradient(45deg, #555 25%, transparent 25%, transparent),
+                  -o-linear-gradient(-45deg, #555 25%, transparent 25%, transparent),
+                  -o-linear-gradient(45deg, transparent 75%, #555 75%),
+                  -o-linear-gradient(-45deg, transparent 75%, #555 75%);
+background-image: linear-gradient(45deg, #555 25%, transparent 25%, transparent),
+                  linear-gradient(-45deg, #555 25%, transparent 25%, transparent),
+                  linear-gradient(45deg, transparent 75%, #555 75%),
+                  linear-gradient(-45deg, transparent 75%, #555 75%);
 }
